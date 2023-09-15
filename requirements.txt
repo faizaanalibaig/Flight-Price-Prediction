@@ -1,0 +1,17 @@
+Jupyter notebook | Colab notebook
+Python
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+LinearRegression
+KNeighborsRegressor
+SVR [support vector Regressor]
+DecisionTreeRegressor
+RandomForestRegressor
+BaggingRegressor
+GridSearchCV
+RandomizedSearchCV
+GB : Gradient Boosting
+XGB: XGBRegressor
