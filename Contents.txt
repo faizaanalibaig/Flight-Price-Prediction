@@ -1,0 +1,14 @@
+The following Jupyter Source file contains:
+
+List Of Contents:
+1. Importing Libraries
+2. Data Collection
+3. Domain Analysis
+4. Exploratory Data Analysis
+5. Data Pre Processing
+6. Feature Selection
+7. Model Creation
+8. Model Evaluation
+9. Evaluation Summary
+10. Challenges Faced
+11. Conclusion
