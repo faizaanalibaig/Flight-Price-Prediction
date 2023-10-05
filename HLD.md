@@ -57,3 +57,8 @@ The Random Forest model also exhibited strong performance.
 10. Project Summary:
 The project achieved the business objective of creating a predictive model to help customers forecast future flight prices.
 The XGradient Boosting (XGB) model demonstrated the highest accuracy and is recommended for deployment to assist customers in planning their journeys effectively.
+
+<br>
+**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in separate ipynb file sections of the project repository.
+
+
